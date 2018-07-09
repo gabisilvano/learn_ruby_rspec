@@ -8,5 +8,3 @@ def ctof (temp)
 	((temp.to_f*1.8)+32.0)
 
 end
-
-
